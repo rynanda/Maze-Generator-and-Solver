@@ -1,0 +1,4 @@
+jdbc.url=jdbc:sqlite:Maze.db
+jdbc.schema=
+jdbc.username=
+jdbc.password=
