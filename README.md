@@ -1,2 +1,2 @@
-# Maze-Generator-and-Solver
-Creating an automatic maze generator and solver in Java through Agile development methodologies. As part of CAB302 - Software Development.
+# Maze Generator and Solver
+Gathering requirements from project description and user stories, producing a detailed design documentation of the system to meet these requirements using JavaDoc, and implementing this system using Java, including GUI forms, exception-handling, basic database management, prototyping, and more. User stories were assigned priorities using the MoSCoW method as well as story points. Release and delivery plans were created to follow Agile methodologies. UML class diagrams are included to represent the classes constructed, their methods, and relationships between other classes in the project.
